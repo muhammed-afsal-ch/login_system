@@ -1,0 +1,11 @@
+body{
+    padding: 50px;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    background-color: #485461;
+    background-image: linear-gradient(315deg, #48546142 0%, #28313b79 74%), url('/images/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
